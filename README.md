@@ -79,7 +79,7 @@ class APP_FSM_Manager extends FSM_Manager {
 }
 ```
 
-## Vue Router Implementation
+## Vue Router Handling
 The _VueRouter_ instance is passed to the FSM.  After that, for the most part, the FSM
 handles the route invocations.  This is done by looking for a route of the same name
 as the 'to' state.  Consider a router definition snippet:
