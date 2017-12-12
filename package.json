@@ -1,0 +1,36 @@
+{
+  "name": "fsm-manager",
+  "version": "0.1.0",
+  "description": "Allows composing FSM's.  Also provides a built-in 'timeout' transition",
+  "directories": {
+    "test": "test"
+  },
+  "main": "./dist/fsm_manager.js",
+  "scripts": {
+    "build": "babel src/fsm_manager.js --nobabelrc --presets=env,stage-3 --out-file dist/fsm_manager.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aphorica/fsm-manager.git"
+  },
+  "keywords": [
+    "Vue.js",
+    "Finite State Machine",
+    "FSM",
+    "Composition",
+    "Javascript"
+  ],
+  "author": "Rick Berger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aphorica/fsm-manager/issues"
+  },
+  "homepage": "https://github.com/aphorica/fsm-manager#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.3.2",
+    "babel-preset-stage-3": "^6.24.1"
+  }
+}
