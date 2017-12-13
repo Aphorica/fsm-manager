@@ -9,11 +9,11 @@
   "scripts": {
     "build": "babel src/fsm_manager.js --nobabelrc --presets=env,stage-3 --out-file dist/fsm_manager.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublish": "npm run build"
+    "prepublishOnly": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aphorica/fsm-manager.git"
+    "url": "git+https://github.com/Aphorica/fsm-manager.git"
   },
   "keywords": [
     "Vue.js",
@@ -22,7 +22,16 @@
     "Composition",
     "Javascript"
   ],
-  "author": "Rick Berger",
+  "author": {
+    "name": "Rick Berger",
+    "email": "rickb@aphorica.com"
+  },
+  "maintainers": [
+    {
+      "name": "Rick Berger",
+      "email": "rickb@aphorica.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aphorica/fsm-manager/issues"

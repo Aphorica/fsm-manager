@@ -161,8 +161,14 @@ at some point (when I need it.)  I suspect it is a simpler problem than this app
 If it's something you drastically need, ping me and we can discuss.
 
 ## Working Example
-
 You can see how this all works in the demo <a href="https://github.com/Aphorica/atmplus">
 Aphorica/atmplus</a>.
 
 This is also serving as my test app, for now.
+
+## License
+While _fsm-manager_ is MIT-Licensed, note that the
+<a href="https://github.com/jakesgordon/javascript-state-machine">
+JakesGordon/Javascript-Finite-State-Machine</a> package is under LGPL.
+
+You need to follow that license requirements for your own efforts.
