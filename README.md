@@ -1,5 +1,5 @@
 # FSM_Manager - Finite State Machine Manager for Vue.js
-### Rick Berger, Aphorica Inc. (rickb@aphorica.com)
+### Rick Berger, Aphorica Inc. (gbergeraph@gmail.com)
 
 > Finite State Machine Composer/Manager with Timeout
 > (For _Vue.js_ applications)
