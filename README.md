@@ -1,6 +1,4 @@
-# FSM_Manager - Finite State Machine Manager for Vue.js
-
-<h1 style='color:red;text-decoration:underline'>This is old and stale.  Preparing to delete it.</h1> 
+# FSM_Manager - Finite State Machine Manager for Vue.js _(Archived)_
 
 ### Rick Berger, Aphorica Inc. (gbergeraph@gmail.com)
 
