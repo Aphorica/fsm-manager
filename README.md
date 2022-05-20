@@ -1,6 +1,6 @@
 # FSM_Manager - Finite State Machine Manager for Vue.js
 
-<h1 style='color:red'>This is old and stale.  Preparing to delete it.</h1> 
+<h1 style='color:red;text-decoration:underline'>This is old and stale.  Preparing to delete it.</h1> 
 
 ### Rick Berger, Aphorica Inc. (gbergeraph@gmail.com)
 
