@@ -1,5 +1,5 @@
 # FSM_Manager - Finite State Machine Manager for Vue.js
-<h1 style="color:red">--> This is old and stale.  Preparing to delete it.</style>
+<h1 style='color:red'>This is old and stale.  Preparing to delete it.</style>
 ### Rick Berger, Aphorica Inc. (gbergeraph@gmail.com)
 
 > Finite State Machine Composer/Manager with Timeout
